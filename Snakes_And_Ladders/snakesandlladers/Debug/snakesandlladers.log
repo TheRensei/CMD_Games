@@ -1,0 +1,4 @@
+﻿  Board.cpp
+f:\downloads\snakesandlladers\snakesandlladers\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  snakesandlladers.vcxproj -> F:\Downloads\snakesandlladers\Debug\snakesandlladers.exe
+  snakesandlladers.vcxproj -> F:\Downloads\snakesandlladers\Debug\snakesandlladers.pdb (Partial PDB)

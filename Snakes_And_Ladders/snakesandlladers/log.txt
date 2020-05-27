@@ -1,0 +1,42 @@
+----------------------------------
+Fri Feb 23 17:15:44 2018
+Players: 
+	karol
+	marta
+Won: marta in 10 moves.
+Lost: karol
+----------------------------------
+Fri Feb 23 17:48:16 2018
+Players: 
+	player1
+	player2
+Won: player2 in 41 moves.
+Lost: player1
+----------------------------------
+Fri Feb 23 17:49:29 2018
+Players: 
+	player1
+	player2
+Won: player1 in 16 moves.
+Lost: player2
+----------------------------------
+Fri Feb 23 17:51:28 2018
+Players: 
+	player1
+	player2
+Won: player1 in 6 moves.
+Lost: player2
+----------------------------------
+Fri Feb 23 18:10:41 2018
+Players: 
+	player1
+	player2
+Won: player2 in 13 moves.
+Lost: player1
+----------------------------------
+Fri Feb 23 18:11:29 2018
+Players: 
+	player1
+	player2
+Won: player2 in 12 moves.
+Lost: player1

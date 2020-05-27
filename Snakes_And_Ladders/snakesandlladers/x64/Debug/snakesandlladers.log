@@ -1,0 +1,14 @@
+﻿  Board.cpp
+c:\users\rensei\desktop\consolegames\snakes_and_ladders\snakesandlladers\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  console.cpp
+c:\users\rensei\desktop\consolegames\snakes_and_ladders\snakesandlladers\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+c:\users\rensei\desktop\consolegames\snakes_and_ladders\snakesandlladers\console.cpp(129): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rensei\desktop\consolegames\snakes_and_ladders\snakesandlladers\console.cpp(134): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Die.cpp
+  Game.cpp
+c:\users\rensei\desktop\consolegames\snakes_and_ladders\snakesandlladers\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  Player.cpp
+  Source.cpp
+c:\users\rensei\desktop\consolegames\snakes_and_ladders\snakesandlladers\console.h(36): warning C4091: 'static ': ignored on left of 'Console::COLOUR' when no variable is declared
+  Generating Code...
+  snakesandlladers.vcxproj -> C:\Users\Rensei\Desktop\ConsoleGames\Snakes_And_Ladders\x64\Debug\snakesandlladers.exe

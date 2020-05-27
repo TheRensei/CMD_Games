@@ -1,0 +1,7 @@
+----------------------------------
+Fri Feb 23 17:17:39 2018
+Players: 
+	player1
+	plyer2
+Won: plyer2 in 6 moves.
+Lost: player1
